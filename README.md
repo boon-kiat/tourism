@@ -13,6 +13,7 @@ WQD7007 Big Data Management
 - TripAdvisor Hotel Reviews dataset on [Kaggle](https://www.kaggle.com/datasets/joebeachcapital/hotel-reviews/data)
 - Contain 878,561 reviews from 4333 hotels crawled from TripAdvisor.
 - Consist of 2 files, including ‘offerings’ and ‘reviews’. The ‘offerings’ has 9 attributes whereas the ‘reviews’ has 10 attributes.
+- The use of JSON would make it easier to read the data. 
 
 ### Methodology:
 _Choosing the most suitable method to store big data:_  
