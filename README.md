@@ -16,6 +16,9 @@ WQD7007 Big Data Management
 - The ‘offerings’ has 9 attributes whereas the ‘reviews’ has 10 attributes.
 - The use of JSON would make it easier to read the data. 
 
+### Tools:
+- MongoDB
+
 ### Methodology:
 _Choosing the most suitable method to store big data:_  
 - Considering the characteristics of TripAdvisor data, which includes structured and unstructured content, MongoDB stands out as a suitable choice.
